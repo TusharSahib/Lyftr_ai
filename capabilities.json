@@ -1,0 +1,21 @@
+{
+  "static_scraping": true,
+  "js_rendering": true,
+  "static_js_fallback": true,
+  "click_tabs": true,
+  "click_load_more": true,
+  "infinite_scroll": true,
+  "pagination_links": true,
+  "depth_greater_than_3": true,
+  "noise_filtering": true,
+  "html_truncation": true,
+  "section_grouping": true,
+  "meta_extraction": true,
+  "link_absolutization": true,
+  "error_handling": true,
+  "timeout_management": true,
+  "schema_compliance": true,
+  "frontend_ui": true,
+  "json_download": true,
+  "accordion_view": true
+}

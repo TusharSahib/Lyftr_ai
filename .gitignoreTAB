@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+.python-version
+
+# Node
+node_modules/
+dist/
+
+# Playwright
+playwright/.cache/
+*.zip
+
+# OS
+.DS_Store
+
