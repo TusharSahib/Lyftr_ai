@@ -1,7 +1,7 @@
 Lyftr AI Full-Stack Web Scraper
 A universal website scraper (MVP) with intelligent content extraction, JS rendering, interaction handling, and a modern JSON viewer frontend.
 
-Features
+Features:
 ✅ Dual-mode scraping: Static HTML + Playwright JS rendering with smart fallback
 
 ✅ Smart section detection: Auto-grouping by landmarks, headings, and semantic elements
